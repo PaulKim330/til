@@ -1,0 +1,11 @@
+1.아직 만들고 싶은게 없다ㅠㅠ 더더 생각해보고 빨리 찾아야지!
+
+2.
+ 1)버전관리란? ->프로젝트 상태가 변경되는 정보를 관리하는것. Git은 commit을 사용하여 버전관리를 함.
+ 2)Git initialize? -> project를 Git화 시키는거.
+ 3)Commit ->현재상태를 저장. 찰칵 찍는거.
+ 4)Add/Staging? ->commit할 파일들을 push하기전 선택하는거.
+ 5)Push는 업로드, Pull은 다운로드의 개념
+ 6)Clone은 원격repo에서 로컬repo로 제일처음 다운받는거
+
+ * 꿀팁 ! : 혼자작업할때 1)Pull -> 2)Commit -> 3)Push의 순서대로 가저오기
