@@ -7,5 +7,6 @@
  4)Add/Staging? ->commit할 파일들을 push하기전 선택하는거.
  5)Push는 업로드, Pull은 다운로드의 개념
  6)Clone은 원격repo에서 로컬repo로 제일처음 다운받는거
+ 7)Tracking? ->로컬repo를 원격repo에 연결하는거
 
  * 꿀팁 ! : 혼자작업할때 1)Pull -> 2)Commit -> 3)Push의 순서대로 가저오기
